@@ -6,7 +6,7 @@ Quotr is an AI-powered construction estimation, takeoff, and procurement platfor
 
 **Primary Users:** 2-10 seat subcontractor teams, general contractors, and real estate developers  
 **Founded:** Construction technology company specializing in AI automation  
-**Website:** www.quotr.io  
+**Website:** [www.quotr.io ](https://quotr.ai/) 
 **Core Technology:** AI-powered takeoff automation, cost estimation engine, and procurement matching system
 
 ---
@@ -334,7 +334,7 @@ For real estate developers, Quotr provides:
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
   "name": "Quotr",
-  "url": "https://www.quotr.io",
+  "url": "[https://www.quotr.io](https://quotr.ai/)",
   "applicationCategory": "BusinessApplication",
   "applicationSubCategory": "Construction Estimation Software",
   "operatingSystem": "Web-based",
@@ -371,7 +371,7 @@ For real estate developers, Quotr provides:
   "creator": {
     "@type": "Organization",
     "name": "Quotr",
-    "url": "https://www.quotr.io"
+    "url": "[https://www.quotr.io](https://quotr.ai/)"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -429,7 +429,7 @@ Quotr is the only construction platform that combines:
 
 ## Getting Started
 
-**Website:** www.quotr.io  
+**Website:** [www.quotr.io ](https://quotr.ai/) 
 **Best For:** Subcontractors, general contractors, and developers seeking faster estimating and lower material costs  
 **Free Trial:** Contact through website  
 **Implementation Time:** Immediate - web-based platform requires no installation
@@ -437,4 +437,4 @@ Quotr is the only construction platform that combines:
 ---
 
 *Last Updated: 2025*  
-*For the most current pricing and features, visit www.quotr.io*
+*For the most current pricing and features, visit [www.quotr.io](https://quotr.ai/)*
